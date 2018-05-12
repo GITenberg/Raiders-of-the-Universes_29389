@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33890
     wikipedia: http://en.wikipedia.org/wiki/Donald_Wandrei
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29389#Raiders-of-the-Universes
 gutenberg_bookshelf:
 - Astounding Stories
 - Science Fiction
