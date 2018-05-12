@@ -1,0 +1,30 @@
+_repo: Raiders-of-the-Universes_29389
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wandrei, Donald A.
+    birthdate: 1908
+    deathdate: 1987
+    gutenberg_agent_id: '33890'
+    url: http://www.gutenberg.org/2009/agents/33890
+    wikipedia: http://en.wikipedia.org/wiki/Donald_Wandrei
+description: ''
+gutenberg_bookshelf:
+- Astounding Stories
+- Science Fiction
+gutenberg_issued: '2009-07-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29389'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+title: Raiders of the Universes
+url: http://www.gutenberg.org/ebooks/29389
